@@ -17,3 +17,5 @@
 
 ## 📈 GitHub Stats
 ![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehreem-Waseem&show_icons=true&theme=radical)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tehreem-waseem-85729a367/)
+
