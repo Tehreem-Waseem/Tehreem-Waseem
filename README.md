@@ -3,7 +3,7 @@
 🎓 Software Engineering student at FUUAST, Islamabad  
 💻 Passionate about Web Development & Front-End Design  
 🌱 Currently learning JavaScript, Git, GitHub, and React  
-📫 How to reach me: [Your email or LinkedIn]
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tehreem-waseem-85729a367/)
 
 ## 🔧 Technologies & Tools
 - HTML5 / CSS3
@@ -18,5 +18,5 @@
 ## 📈 GitHub Stats
 ![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehreem-Waseem&show_icons=true&theme=radical)
 
-## 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tehreem-waseem-85729a367/)
+
 
