@@ -34,5 +34,14 @@
 ---
 
 ## 📈 GitHub Stats  
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehreem-Waseem&show_icons=true&theme=radical)
+
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tehreem-Waseem&show_icons=true&theme=radical&cache_seconds=1)
+## 🗂️ Top Languages🚀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehreem-Waseem&layout=compact&theme=radical)
+---
+
+💡 _“Never stop learning, because life never stops teaching.”_  
+✨ Thank you for visiting my GitHub profile!
+
+
 
