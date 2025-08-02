@@ -3,7 +3,7 @@
 
 🎓 Software Engineering student at FUUAST, Islamabad  
 💻 Passionate about Web Development & Front-End Design  
-🌱 Currently learning JavaScript, Git, GitHub, and React  
+🌱 Currently learning JavaScript, GitHub, and React  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tehreem-waseem-85729a367/)
 
 ---
