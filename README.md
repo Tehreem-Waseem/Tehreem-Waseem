@@ -49,9 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Tehreem-Waseem&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tehreem-Waseem&layout=compact&theme=tokyonight&cache_seconds=1" alt="Top Languages" />
-</p>
+
 
 ## 🗂️ Top Languages🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tehreem-Waseem&layout=compact&theme=radical)
