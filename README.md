@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tehreem-Waseem&show_icons=true&theme=tokyonight&cache_seconds=1" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tehreem-Waseem&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165" />
+ 
 </p>
 
 
