@@ -39,6 +39,9 @@
 - [Portfolio Website](https://github.com/Tehreem-Waseem/Portfolio) – HTML-based personal website  
 - [Glow-Up Landing Page](https://github.com/Tehreem-Waseem/Glow-Up) – Stylish homepage design with CSS
 - [🌿 Lucky Shrub](https://github.com/Tehreem-Waseem/Lucky-Shrub) – Front-End Development Certificate Project
+- [📇 Contact Search](https://github.com/Tehreem-Waseem/Contact-search) – JS-based contact management with search functionality  
+
+- 
 - More coming soon...  
 
 ---
