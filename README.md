@@ -1,116 +1,64 @@
-# 👋 Hi, I'm Tehreem Waseem!
+<div align="center">
 
-🎓 **Software Engineering Student** at FUUAST, Islamabad (BSSE '28)  
-💻 **Focus:** Python, Data Analytics & Machine Learning  
-🤖 **Mission:** Building practical ML systems and interactive data applications  
-🌱 **Currently Learning:** Advanced Python, Scikit-learn, SQL, Git & GitHub  
-🚀 **Goal:** Building real-world, production-oriented software and ML projects  
+# 👋 Hi, I'm Tehreem Waseem
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tehreem-waseem-85729a367/) • [Email](mailto:tehreem.20106@gmail.com)
+**Software Engineering Student (BSSE '28) @ FUUAST, Islamabad**  
+*Building production-ready Machine Learning systems, data applications, and modern web solutions.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tehreem-waseem-85729a367/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tehreem.20106@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=github)](https://github.com/Tehreem-Waseem/Portfolio)
 
-## 🚀 Technologies & Tools
-
-### 💻 Programming & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🌐 Web & Front-End
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🛠️ Development & CI/CD
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🧠 Machine Learning Core Competencies
+### 🛠️ Tech Stack & Toolkit
 
-- 🧹 **Data Cleaning & Preprocessing:** Handling missing values, encoding, scaling, and feature transformation.
-- 📊 **Exploratory Data Analysis (EDA):** Visualizing distributions, correlations, and identifying data anomalies.
-- ⚙️ **Feature Engineering:** Crafting custom domain-specific variables to enhance predictive accuracy.
-- 🤖 **Classification & Regression:** Benchmarking baseline algorithms to complex ensemble architectures.
-- 🎯 **Model Benchmarking & Selection:** Rigorous comparison of ML models across multiple statistical metrics.
-- 🎛️ **Hyperparameter Tuning:** Fine-tuning parameters using GridSearchCV and RandomizedSearchCV.
-- 🔄 **Cross-Validation:** Utilizing Stratified K-Fold validation to guarantee model stability.
-- 📈 **Evaluation Metrics:** Deep evaluation using ROC-AUC, PR-AUC, Confusion Matrix, Precision, Recall & F1-Score.
-- 🛡️ **Leakage-Free Pipelines:** Constructing robust, automated Scikit-learn pipelines.
-- 📦 **Model Serialization:** Exporting production-ready models using `Joblib`.
-- 🔍 **Error Analysis & Interpretability:** Diagnostics on model errors, edge cases, and feature importances.
-- 💡 **Business Decision Systems:** Mapping probabilistic model predictions to business rules and action logic.
-- 💰 **ROI Simulation:** Estimating financial impact, customer churn recovery, and campaign returns.
-- 🌐 **ML Model Deployment:** Publishing interactive tools using Streamlit and GitHub Actions.
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Data Science & ML** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Web & App Dev** | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **DevOps & Testing** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🚀 Featured Project
+### 🧠 Core Capabilities
 
-### 🛡️ Customer Retention & Decision Support System
-
-An end-to-end Machine Learning system that predicts customer churn and converts ML predictions into actionable business decisions.
-
-**Key Features:**
-* 📊 Exploratory Data Analysis & Feature Engineering
-* 🧹 Data Cleaning & Preprocessing Pipelines
-* 🤖 Multiple ML Model Benchmarking & Performance Comparison
-* ⚙️ Hyperparameter Tuning via Cross-Validation
-* 🔄 Leakage-Free Scikit-learn End-to-End Pipeline
-* 📈 Churn Probability Prediction Engine
-* 🚦 **RED / ORANGE / GREEN** Risk Stratification System
-* 🎯 Automated Actionable Retention Recommendations
-* 💰 Business ROI Financial Simulation Engine
-* 🧪 Automated Unit Testing with PyTest
-* 🔄 Continuous Integration via GitHub Actions CI
-* 🌐 Interactive Streamlit Web Dashboard
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Streamlit • PyTest • GitHub Actions
-
-🔗 **[GitHub Repository](https://github.com/Tehreem-Waseem/customer-retention-system)** | 🚀 **[Live Streamlit Dashboard](https://customer-retention-system-8zyvt6uptwnh9cfrdmeagw.streamlit.app/)**
+`Data Cleaning & Preprocessing` `Feature Engineering` `Classification & Regression` `Hyperparameter Tuning`  
+`Cross-Validation` `ROC-AUC / PR-AUC Evaluation` `Leakage-Free Pipelines` `Joblib Serialization`  
+`Error Diagnostics` `ROI Simulation Engines` `Streamlit Deployment` `PyTest & CI/CD`
 
 ---
 
-## 🌈 Other Projects
+### 🌟 Featured Project
 
-- 🖥️ **[Portfolio Website](https://github.com/Tehreem-Waseem/Portfolio):** Responsive HTML & CSS portfolio platform.
-- ✨ **[Glow-Up Landing Page](https://github.com/Tehreem-Waseem/Glow-Up):** Clean landing page UI built with modern HTML & CSS.
-- 🌿 **[Lucky Shrub](https://github.com/Tehreem-Waseem/Lucky-Shrub):** Front-End Development certificate capstone project.
-- 📇 **[Contact Search](https://github.com/Tehreem-Waseem/Contact-search):** JavaScript contact management and dynamic search application.
-
----
-
-## 📚 Current Learning Goals
-
-- 🔹 Deepen Python, Scikit-learn, and Machine Learning engineering practices
-- 🔹 Build complex end-to-end production ML projects
-- 🔹 Advance SQL and database querying skills for data analytics
-- 🔹 Master advanced model evaluation, interpretability (SHAP/LIME), and diagnostics
-- 🔹 Implement CI/CD pipelines, MLOps, and automated testing for data applications
-- 🔹 Bridge ML backend algorithms with modern React front-end user experiences
+> ### 🛡️ Customer Retention & Decision Support System
+> An end-to-end Machine Learning ecosystem predicting customer churn and converting ML output into financial decision logic.
+> 
+> * **ML Pipeline:** Leakage-free Scikit-learn pipeline with hyperparameter tuning & cross-validation.
+> * **Business Engine:** 🚦 RED / ORANGE / GREEN risk stratification with automated retention actions & ROI financial simulation.
+> * **Production Stack:** Automated via PyTest & GitHub Actions CI, deployed on Streamlit.
+> 
+> **Links:** 🔗 [GitHub Repository](https://github.com/Tehreem-Waseem/customer-retention-system) | 🚀 [Live Streamlit Dashboard](https://customer-retention-system-8zyvt6uptwnh9cfrdmeagw.streamlit.app/)
 
 ---
 
-## 📊 End-to-End ML Architecture Flow
+### 📂 Featured Works
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Portfolio Website** | Personal developer portfolio site | `HTML5` • `CSS3` | [View Repo](https://github.com/Tehreem-Waseem/Portfolio) |
+| **Glow-Up** | Modern landing page interface | `HTML5` • `CSS3` | [View Repo](https://github.com/Tehreem-Waseem/Glow-Up) |
+| **Contact Search** | Dynamic contact search utility | `JavaScript` • `DOM` | [View Repo](https://github.com/Tehreem-Waseem/Contact-search) |
+| **Lucky Shrub** | Front-End development project | `HTML5` • `CSS3` | [View Repo](https://github.com/Tehreem-Waseem/Lucky-Shrub) |
+
+---
+
+### 🎯 2026 Focus & Roadmap
 
 ```text
-       [ Raw Data Input ]
-               ↓
-    [ Data Preprocessing & EDA ]
-               ↓
-  [ Feature Engineering & Scaling ]
-               ↓
-    [ Model Benchmarking & Tuning ]
-               ↓
- [ Risk Stratification & Business Logic ]
-               ↓
-    [ Interactive Streamlit App ]
-               ↓
- [ Automated PyTest & CI Deployment ]
+┌─────────────────────────┐     ┌─────────────────────────┐     ┌─────────────────────────┐
+│     Advanced MLOps      │ ──> │   FastAPI Backend ML    │ ──> │ React Front-End Integration│
+│  SHAP, LIME & Docker    │     │ SQL & Cloud Databases   │     │ Full-Stack AI Services  │
+└─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
